@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\enkel\OneDrive\Dokument\GitHub\AW-Comps\clap-saw-demo-imgui\src\clap-saw-demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\enkel\OneDrive\Dokument\GitHub\AW-Comps\clap-saw-demo-imgui\src\clap-saw-demo-editor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\enkel\OneDrive\Dokument\GitHub\AW-Comps\clap-saw-demo-imgui\src\saw-voice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\enkel\OneDrive\Dokument\GitHub\AW-Comps\clap-saw-demo-imgui\src\clap-saw-demo-pluginentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\enkel\OneDrive\Dokument\GitHub\AW-Comps\clap-saw-demo-imgui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2A7E8785-C823-3A4F-AD2C-B28A7D8E5F32}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

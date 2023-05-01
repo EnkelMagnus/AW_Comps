@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2116,5): warning : The referenced project 'C:\Users\enkel\OneDrive\Dokument\GitHub\AW-Comps\clap-saw-demo-imgui\ZERO_CHECK.vcxproj' does not exist.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2116,5): warning : The referenced project 'C:\Users\enkel\OneDrive\Dokument\GitHub\AW-Comps\clap-saw-demo-imgui\libs\clap-imgui-support\imgui-clap-support.vcxproj' does not exist.
+  Building Custom Rule C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/CMakeLists.txt
+  CMake is re-running because C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): error MSB8066: Custom build for 'C:\Users\enkel\OneDrive\Dokument\GitHub\AW-Comps\clap-saw-demo-imgui\CMakeLists.txt' exited with code 1.

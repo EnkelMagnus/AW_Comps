@@ -33,10 +33,7 @@
 
 # Visual Studio
 obj/
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
+
 .vs/
 packages/
 target/

@@ -1,0 +1,14 @@
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/CMakeFiles/clap-saw-demo-imgui.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/CMakeFiles/INSTALL.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/CMakeFiles/ALL_BUILD.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/CMakeFiles/ZERO_CHECK.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/clap/CMakeFiles/clap-tests.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/clap/CMakeFiles/INSTALL.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/clap/CMakeFiles/ALL_BUILD.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/clap-helpers/CMakeFiles/INSTALL.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/clap-helpers/CMakeFiles/ALL_BUILD.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/readerwriterqueue/CMakeFiles/INSTALL.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/readerwriterqueue/CMakeFiles/ALL_BUILD.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/clap-imgui-support/CMakeFiles/imgui-clap-support.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/clap-imgui-support/CMakeFiles/INSTALL.dir
+C:/Users/enkel/OneDrive/Dokument/GitHub/AW-Comps/clap-saw-demo-imgui/libs/clap-imgui-support/CMakeFiles/ALL_BUILD.dir
